@@ -43,4 +43,4 @@ There is two packages availables, use them according your needs. Do not install 
 © 2025 Humberto Teófilo, All Rights Reserved.   
 
 ## ☀️ License
-This software is released under Modified LGPL(with linking exception, same of LCL). This is a free software, inclusive for comercial use and modifications under the license terms. See the file `license.txt`.
+This software is released under Modified LGPL(with linking exception, same of LCL). This is a free software, inclusive for commercial use and modifications under the license terms. See the file `license.txt`.
